@@ -1,6 +1,8 @@
 # Angular Components for [Foundation](http://foundation.zurb.com/)
 ***
 
+The Official repository for this project is by circlingthesun her: [https://github.com/circlingthesun/angular-foundation-6](https://github.com/circlingthesun/angular-foundation-6)
+
 This project is a port of the AngularUI team's excellent [angular-bootstrap](https://github.com/angular-ui/bootstrap) project for use in the [Foundation](http://foundation.zurb.com/) framework.
 
 [![Build Status](https://travis-ci.org/circlingthesun/angular-foundation-6.svg)](https://travis-ci.org/circlingthesun/angular-foundation-6)
